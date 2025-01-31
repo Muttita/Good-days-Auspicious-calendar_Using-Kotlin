@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638704572933",
+    "project_id": "wandeedee-70dc3",
+    "storage_bucket": "wandeedee-70dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638704572933:android:e8391e9f2cb62de3281a6c",
+        "android_client_info": {
+          "package_name": "com.example.wandeedee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5EQhq0VJBuXD9BQA81YHHhO6nbgUIFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

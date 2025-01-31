@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wandeedee</string>
+    <string name="title_activity_main_home">mainHome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Calender</string>
+    <string name="title_notifications">Profile</string>
+
+    <string-array name="days">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+
+    <string-array name="AusDetail">
+        <item>ขึ้นบ้านใหม่</item>
+        <item>พิธีมงคลสมรส</item>
+        <item>พิธีอุปสมบท</item>
+        <item>เปลี่ยนชื่อนามสกุล</item>
+        <item>ยกเสาเอกบ้าน</item>
+        <item>ออกรถใหม่</item>
+    </string-array>
+</resources>
